@@ -1,0 +1,15 @@
+{
+    "Pastas": [
+        "Structure Tables"
+    ],
+    "Arquivos": [
+        "dbo.sp_upgraddiagrams",
+        "dbo.sp_renamediagram",
+        "dbo.sp_helpdiagrams",
+        "dbo.sp_helpdiagramdefinition",
+        "dbo.sp_dropdiagram",
+        "dbo.sp_creatediagram",
+        "dbo.sp_alterdiagram",
+		"dbo.getdateBR"
+    ]
+}
